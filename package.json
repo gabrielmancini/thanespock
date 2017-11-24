@@ -27,7 +27,7 @@
     "view-helpers": "latest",
     "forever": "latest",
     "LazyBoy": "~0.1.14",
-    "request": "~2.27.0"
+    "request": "~2.83.0"
   },
   "devDependencies": {
     "supertest": "latest",
@@ -40,7 +40,7 @@
     "grunt": "latest",
     "grunt-cli": "latest",
     "grunt-bower-task": "latest",
-    "bower": "~1.2.6",
-    "nodemon": "~0.7.10"
+    "bower": "~1.8.2",
+    "nodemon": "~1.12.1"
   }
 }
