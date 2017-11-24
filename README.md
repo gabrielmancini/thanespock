@@ -2,6 +2,8 @@
 # Thane Spock Stack
 ==========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/gabrielmancini/thanespock.svg)](https://greenkeeper.io/)
+
 Travis Heroku Node.js Express Socket.io PouchDb Offline Couchdb Kanso
 
 # MEAN Stack
